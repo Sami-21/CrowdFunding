@@ -1,11 +1,17 @@
-import './App.css';
-import CrowdFunding from './crowdFunding/CrowdFunding'
+import CrowdFunding from './crowdFunding/CrowdFunding';
+
 
 function App() {
   return (
+ 
+      
     <div className="App">
-      <CrowdFunding />
+ 
+         <CrowdFunding />
+ 
+ 
     </div>
+ 
   );
 }
 

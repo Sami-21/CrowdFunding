@@ -23,7 +23,7 @@ export default function funding_card(props) {
 <p> {props.description}.</p>
  <div className="bot_section">
 <p> <span className="bold">{props.left}</span>left</p>
- <button className="btn_cyan disabled_btn">Select Reward</button> 
+ <button className="btn_cyan">Select Reward</button> 
  </div> </div>}       
  </>
     )
